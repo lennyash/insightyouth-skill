@@ -1,0 +1,21 @@
+{
+  "name": "insightyouth-skill",
+  "display_name": "有悟青年公众号文章排版 Skill",
+  "description": "把写好的中文财经/投资类文章排成可直接发布到微信公众号的富文本 HTML：白底淡绿、九套配色一键切换，含表格、引用、金句荧光笔、话题胶囊、风险提示等模块，页面带「一键复制全文」按钮。生成脚本仅依赖 Python 标准库。",
+  "version": "1.0.0",
+  "author": "有悟青年 (InsightYouth)",
+  "license": "MIT",
+  "category": "内容排版",
+  "keywords": [
+    "公众号",
+    "微信公众号",
+    "排版",
+    "公众号排版",
+    "文章排版",
+    "财经",
+    "投资",
+    "Markdown",
+    "有悟青年",
+    "InsightYouth"
+  ]
+}
